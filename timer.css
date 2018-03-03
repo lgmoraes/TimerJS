@@ -1,0 +1,49 @@
+/*** PARAMETRES PAR DEFAUT ***/
+
+.timerInterface {
+    width: 250px;
+    color: white;
+    line-height: 36px;
+    font-family: "WebAtlas";
+    font-size: 20px;
+    cursor: default;
+    display: inline-block;
+}
+
+.timerInterface .menu {
+    height: 35px;
+    background: rgba(0, 0, 0, .5);
+    overflow: hidden;
+}
+
+.timerInterface .play, .timerInterface .pause, .timerInterface .stop, .timerInterface .recommencer {
+    width: 40px;
+    vertical-align: top;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.timerInterface .currentTime {
+    font-size: 14px;
+    vertical-align: top;
+}
+
+.timerInterface .lecture::before {
+    content: "\0114";
+}
+
+.timerInterface .pause::before {
+    content: "\0115";
+}
+
+.timerInterface .stop::before {
+    content: "\0116";
+}
+
+.timerInterface .recommencer::before {
+    content: "\01fb";
+}
+
+/*** STYLES ALTERNATIFS ***/
+

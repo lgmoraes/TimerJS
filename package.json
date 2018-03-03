@@ -1,0 +1,12 @@
+{
+  "name": "TimerJS",
+  "version": "0.1.0",
+  "main": "timer.js",
+  "repository": "https://github.com/lgmoraes/TimerJS.git",
+  "author": "Louis Moraes <lmoraes@hotmail.fr>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "font_webatlas": "https://github.com/lgmoraes/font_webatlas.git"
+  }
+}
