@@ -1,8 +1,8 @@
 {
-  "name": "TimerJS",
+  "name": "Timer_webatlas",
   "version": "0.1.0",
   "main": "timer.js",
-  "repository": "https://github.com/lgmoraes/TimerJS.git",
+  "repository": "https://github.com/lgmoraes/Timer_webatlas.git",
   "author": "Louis Moraes <lmoraes@hotmail.fr>",
   "license": "MIT",
   "private": false,

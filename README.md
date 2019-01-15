@@ -1,12 +1,12 @@
-# TimerJS
+# Timer_webatlas
 
 ## Intro
 
-TimerJS is a script that allow you to init javascript timers, with or without control interface
+Timer_webatlas is a script that allow you to init javascript timers, with or without control interface
 
 ## Package managers
 
-    yarn add https://github.com/lgmoraes/TimerJS.git
+    yarn add https://github.com/lgmoraes/Timer_webatlas.git
 
 ## Usage
 
